@@ -5,4 +5,3 @@ Please check Vungle Integration document first [Getting Started for iOS Guide](h
 
 ### Requirements
 * Cocos2dx V3.12
-* XCode 7+
